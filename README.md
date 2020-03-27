@@ -1,2 +1,2 @@
-# ymgk.14545561.ebru.coskun
+# ymgk.14545562.ebru.coskun
 yazılım mühendisliği güncel konular
